@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @luizmonti
-- 👀 I’m interested in AI integrations
-- 🌱 I’m currently learning AI Automation
-- 💞️ I’m looking to collaborate on analytics consultant
-- 📫 How to reach me luizmonti1@gmail.com
-
-<!---
-luizmonti1/luizmonti1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Luiz Monti, a Python developer specializing in web development, data analysis, and automation. About a year of developing my own Python, web scraping, database management, API integration, and creating automated solutions. Now, I have decided to start with the next step and do some freelancing. Feeling ready for it.
+I focused on backend Python development. I have a few functioning data analysis/scraper functioning scripts. Focused on ML and AI and love to bring solutions to the table.
+I'm taking a course on ethical hacking, and I'm all set up. Need to start trying. All I needed was to adapt to Kali. Python is covered already. 
